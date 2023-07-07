@@ -1,4 +1,25 @@
-<body align="center">
+<div id="header" align="center">
+  <h1 align="center">
+  welcome
+    
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  <img src="https://static.wikia.nocookie.net/gensin-impact/images/d/db/Icon_Emoji_Paimon%27s_Paintings_Yae_Miko_3.png/revision/latest?cb=20220311051056" width="180cm"/>
+
+  <div id="badges">
+  <a href="youtube.com/@mrheroman">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/HeromanMr">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/827215629613531166">
+    <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
+  </a>
+  </div>
+</div>
+<p align="center">just code something and play some games</p>
+
 
 ---
 
@@ -16,11 +37,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats :  
 [![GitHub Streak](https://streak-stats.demolab.com?user=dewakuli&theme=dark&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewakuli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dewakuli&show_icons=true&theme=tokyonight)
-
-</body>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewakuli&layout=compact&theme=vision-friendly-dark)](https://github.com/dewakuli/github-readme-stats)
