@@ -7,7 +7,7 @@
   <img src="https://static.wikia.nocookie.net/gensin-impact/images/d/db/Icon_Emoji_Paimon%27s_Paintings_Yae_Miko_3.png/revision/latest?cb=20220311051056" width="180cm"/>
 
   <div id="badges">
-  <a href="youtube.com/@mrheroman">
+  <a href="www.youtube.com/@mrheroman">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/HeromanMr">
