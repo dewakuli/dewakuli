@@ -38,6 +38,6 @@
 ---
 
 ### :fire: My Stats :  
-[![GitHub Streak](https://streak-stats.demolab.com?user=dewakuli&theme=dark&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dewakuli&theme=dark&locale=id&date_format=j%20M%5B%20Y%5D)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewakuli&layout=compact&theme=vision-friendly-dark)](https://github.com/dewakuli/github-readme-stats)
